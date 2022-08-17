@@ -1,0 +1,3 @@
+||avatars.githubusercontent.com/*
+||digiboy.ir/wp-content/img/*.gif
+||ad-management-cdn.yektanet.com/media/*
