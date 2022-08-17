@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+!------------------------------------[UPDATE]--------------------------------------
+!------------------------------------[FILTERS]-------------------------------------
+||avatars.githubusercontent.com/*
+||digiboy.ir/wp-content/img/*.gif
+||ad-management-cdn.yektanet.com/media/*
