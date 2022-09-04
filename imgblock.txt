@@ -68,3 +68,11 @@ www.1pezeshk.com##.instagram-pics
 ||storage.beytoote.com/images/banners/*.gif
 ||storage.beytoote.com/images/banners/*.jpg
 ||tabnakbato.ir/files/adv/
+||avatars.githubusercontent.com/*
+||digiboy.ir/wp-content/img/*.gif
+||ad-management-cdn.yektanet.com/media/*
+||cdn.tabnak.ir/files/adv/*
+||img.p30download.ir/software/image/*
+||img.p30download.ir/tutorial/*
+||mifa-music.ir/wp-content/uploads/*.jpg
+||secure.gravatar.com/avatar/*
